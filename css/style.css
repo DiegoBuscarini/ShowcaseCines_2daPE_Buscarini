@@ -164,7 +164,7 @@ header {
 main {
     color: white;    
     font-family: k2d, sans-serif;
-    text-align: left;
+    text-align: center;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
